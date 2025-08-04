@@ -9,7 +9,7 @@ description: >
 version:          1.0
 gitbook_version:  3.2.3
 
-url:              'mt_test.github.io'
+url:              'https://mt_test.github.io'
 baseurl:          '/jekyll-gitbook'
 rss:              RSS
 
