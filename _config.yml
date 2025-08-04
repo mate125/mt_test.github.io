@@ -1,16 +1,16 @@
 # Configurations
-title:            Jekyll Gitbook
-longtitle:        Jekyll Gitbook
-author:           HE Tao
-email:            sighingnow@gmail.com
+title:            TEST
+longtitle:        blog test
+author:           mate
+email:            
 description: >
-  Build Jekyll site with the GitBook style.
+  blog Test
 
 version:          1.0
 gitbook_version:  3.2.3
 
-url:              'https://mt_test.github.io'
-baseurl:          '/jekyll-gitbook'
+url:              'https://mate125.github.io/mt_test.github.io'
+baseurl:          ''
 rss:              RSS
 
 # bootstrap: use the remote theme for the site itself
